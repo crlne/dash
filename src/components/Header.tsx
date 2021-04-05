@@ -6,7 +6,7 @@ export function Header() {
         <Flex as="header" w="100%" maxWidth={1480} h="20" mx="auto" mt="4" px="6" align="center">
             <Text fontSize="3xl" fontWeight="bold" letterSpacing="tight" w="64">
                 Dash
-                <Text as="span" ml="1" color="purple.900">.</Text>
+                <Text as="span" ml="1" color="purple.500">.</Text>
             </Text>
 
             <Flex as="label" flex="1" py="4" px="8" ml="6" maxWidth={400} alignSelf="center"
